@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.au10tix.sdktestapp",
+    "sha256_cert_fingerprints":
+    ["B7:01:9C:76:56:63:9F:8D:5A:20:48:A6:6B:40:EC:C9:5D:C3:63:D6:36:74:4F:86:84:A0:14:9C:BB:CE:8E:D9"]
+  }
+}]
